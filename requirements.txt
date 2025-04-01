@@ -2,3 +2,5 @@ voila
 ipywidgets
 pandas
 plotly
+matplotlib.pyplot
+seaborn
