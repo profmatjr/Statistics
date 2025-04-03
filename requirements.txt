@@ -4,3 +4,4 @@ pandas
 plotly
 seaborn
 scipy
+scipy.stats
